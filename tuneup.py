@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Tuneup assignment"""
 
-__author__ = "knmarvel"
+__author__ = "knmarvel, working with Janell Huyck on concepts"
 
 import cProfile
 import timeit
